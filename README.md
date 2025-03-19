@@ -1,6 +1,6 @@
 # ci-jfrog-runner
 
-A container that contains the JFrog CLI tool for use in automation
+A container that contains the JFrog CLI tool, `jf`, for use in automation. An initial CLI configuration will be added using the `JFROG_PLATFORM_BASE_URL` provided at build time.
 
 
 ## Building the Container
